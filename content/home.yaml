@@ -1,0 +1,66 @@
+hero:
+  title: Making _reflectometry_ data analysis and modelling _easy_
+  description: >-
+    An intuitive and user-friendly application which integrates multiple popular
+    reflectometry data analysis libraries such as
+    [refnx](https://refnx.readthedocs.io/en/latest/) and
+    [bornagain](https://www.bornagainproject.org). Allowing for the
+    simulation of reflectometry profiles based on layered structures and
+    refinement against experimental data.
+  downloads:
+    - icon: icon-windows
+      os: Windows
+      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v0.0.1-beta/easyreflectometry_Windows_x86-32_v0.0.1-beta.zip
+    - icon: icon-macos
+      os: macOS
+      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v0.0.1-beta/easyreflectometry_macOS_x86-64_v0.0.1-beta.zip
+    - icon: icon-ubuntu
+      os: Ubuntu
+      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v0.0.1-beta/easyreflectometry_Linux_x86-64_v0.0.1-beta.zip
+  poster: assets/img/hero_light.png
+
+features:
+  - icon: icon-open-source
+    title: Free and open-source
+    description: >-
+      Anyone is free to use **easyReflectometry** and the source code is openly
+      shared on GitHub.
+  - icon: icon-cross-platform
+    title: Cross-platform
+    description: >-
+      **easyReflectometry** works across operating systems: macOS, Windows, or
+      Linux.
+  - icon: fas fa-thumbs-up
+    title: Easy to use
+    description: >-
+      Intuitive tabbed interface with a clear workflow, built-in step-by-step
+      user guides and video tutorials help speed up data modelling and analysis.
+  - icon: icon-delivery-package
+    title: Everything is included
+    description: >-
+      **easyReflectometry** is distributed as an all-in-one package that
+      includes all the dependencies and can be installed with only a few clicks.
+  - icon: icon-swiss-knife
+    title: Multi-functional
+    description: >-
+      **easyReflectometry** integrates existing reflectometry packages, such as
+      **refnx** and **bornagain**, to cover different functionality.
+  - icon: fas fa-sync-alt
+    title: Live update of calculations
+    description: >-
+      You can modify any parameter manually or with a sidebar slider, and the
+      simulated model curve is automatically recalculated in real time.
+
+contact:
+  - icon: fas fa-question-circle
+    title: General questions
+    description: >-
+      For general questions or comments, please contact us at
+      [support@easyreflectometry.org](mailto:support@easyreflectometry.org), or
+      fill out the form.
+  - icon: fas fa-bug
+    title: Issues and new features
+    description: >-
+      For bug reports and feature requests, please use
+      [GitHub Issue Tracker](https://github.com/easyscience/easyreflectometryapp/issues)
+      instead (free registration required).

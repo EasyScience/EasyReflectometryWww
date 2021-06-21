@@ -1,0 +1,8 @@
+url: https://easyreflectometry.org
+title: Making reflectometry data analysis and modelling easy
+description: >-
+  An intuitive and user-friendly application for simulation of reflectometry
+  profiles based on layered models and refinement against experimental data.
+release:
+  version: 0.0.1-beta
+  date: 2021-06-08
