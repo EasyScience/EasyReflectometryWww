@@ -17,7 +17,7 @@ hero:
     - icon: icon-ubuntu
       os: Ubuntu
       url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta/easyReflectometry_Linux_x86-64_v0.0.2-beta.zip
-  poster: assgets/img/hero_light.png
+  poster: assets/img/hero_light.png
 
 features:
   - icon: icon-open-source
