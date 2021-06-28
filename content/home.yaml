@@ -4,19 +4,19 @@ hero:
     An intuitive and user-friendly application which integrates multiple popular
     reflectometry data analysis libraries such as
     [refnx](https://refnx.readthedocs.io/en/latest/) and
-    [bornagain](https://www.bornagainproject.org). Allowing for the
+    [refl1d](https://refl1d.readthedocs.io). Allowing for the
     simulation of reflectometry profiles based on layered structures and
     refinement against experimental data.
   downloads:
     - icon: fab fa-windows
       os: Windows
-      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v0.0.1-beta/easyreflectometry_Windows_x86-32_v0.0.1-beta.zip
+      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta/easyReflectometry_Windows_x86-32_v0.0.2-beta.zip
     - icon: fab fa-apple
       os: macOS
-      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v0.0.1-beta/easyreflectometry_macOS_x86-64_v0.0.1-beta.zip
+      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta/easyReflectometry_macOS_x86-64_v0.0.2-beta.zip
     - icon: icon-ubuntu
       os: Ubuntu
-      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v0.0.1-beta/easyreflectometry_Linux_x86-64_v0.0.1-beta.zip
+      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta/easyReflectometry_Linux_x86-64_v0.0.2-beta.zip
   poster: assets/img/hero_light.png
 
 features:
@@ -44,7 +44,7 @@ features:
     title: Multi-functional
     description: >-
       **easyReflectometry** integrates existing reflectometry packages, such as
-      **refnx** and **bornagain**, to cover different functionality.
+      **refnx** and **refl1d**, to cover different functionality.
   - icon: fas fa-sync-alt
     title: Live update of calculations
     description: >-
