@@ -4,7 +4,7 @@ hero:
     An intuitive and user-friendly application which integrates multiple popular
     reflectometry data analysis libraries such as
     [refnx](https://refnx.readthedocs.io/en/latest/) and
-    [refl1d](https://refl1d.readthedocs.io). Allowing for the
+    [refl1d](https://refl1d.readthedocs.io/en/latest/). Allowing for the
     simulation of reflectometry profiles based on layered structures and
     refinement against experimental data.
   downloads:
@@ -17,7 +17,7 @@ hero:
     - icon: icon-ubuntu
       os: Ubuntu
       url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta/easyReflectometry_Linux_x86-64_v0.0.2-beta.zip
-  poster: assets/img/hero_light.png
+  poster: assgets/img/hero_light.png
 
 features:
   - icon: icon-open-source
