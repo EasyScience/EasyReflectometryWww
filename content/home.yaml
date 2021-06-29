@@ -7,16 +7,19 @@ hero:
     [refl1d](https://refl1d.readthedocs.io/en/latest/). Allowing for the
     simulation of reflectometry profiles based on layered structures and
     refinement against experimental data.
+  release:
+    version: 0.0.2-beta.1
+    date: 2021-06-29
   downloads:
     - icon: fab fa-windows
       os: Windows
-      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta.1/easyReflectometry_Windows_x86-32_v0.0.2-beta.1.zip
+      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/easyreflectometry_Windows_x86-32_v$RELEASE_VERSION.zip
     - icon: fab fa-apple
       os: macOS
-      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta.1/easyReflectometry_macOS_x86-64_v0.0.2-beta.1.zip
+      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/easyreflectometry_macOS_x86-64_v$RELEASE_VERSION.zip
     - icon: icon-ubuntu
       os: Ubuntu
-      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta.1/easyReflectometry_Linux_x86-64_v0.0.2-beta.1.zip
+      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/easyreflectometry_Linux_x86-64_v$RELEASE_VERSION.zip
   poster: assets/img/hero_light.png
 
 features:
