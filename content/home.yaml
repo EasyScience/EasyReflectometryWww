@@ -10,13 +10,13 @@ hero:
   downloads:
     - icon: fab fa-windows
       os: Windows
-      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta/easyReflectometry_Windows_x86-32_v0.0.2-beta.zip
+      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta.1/easyReflectometry_Windows_x86-32_v0.0.2-beta.1.zip
     - icon: fab fa-apple
       os: macOS
-      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta/easyReflectometry_macOS_x86-64_v0.0.2-beta.zip
+      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta.1/easyReflectometry_macOS_x86-64_v0.0.2-beta.1.zip
     - icon: icon-ubuntu
       os: Ubuntu
-      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta/easyReflectometry_Linux_x86-64_v0.0.2-beta.zip
+      url: https://github.com/easyScience/easyReflectometryApp/releases/download/v0.0.2-beta.1/easyReflectometry_Linux_x86-64_v0.0.2-beta.1.zip
   poster: assets/img/hero_light.png
 
 features:
