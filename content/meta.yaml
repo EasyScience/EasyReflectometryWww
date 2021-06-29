@@ -4,5 +4,5 @@ description: >-
   An intuitive and user-friendly application for simulation of reflectometry
   profiles based on layered models and refinement against experimental data.
 release:
-  version: 0.0.2-beta
-  date: 2021-06-28
+  version: 0.0.2-beta.1
+  date: 2021-06-29
