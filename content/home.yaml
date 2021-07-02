@@ -18,7 +18,7 @@ hero:
       os: macOS
       url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/easyreflectometry_macOS_x86-64_v$RELEASE_VERSION.zip
     - icon: icon-ubuntu
-      os: Ubuntu
+      os: Ubuntu-20.04
       url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/easyreflectometry_Linux_x86-64_v$RELEASE_VERSION.zip
   poster: assets/img/hero_light.png
 
