@@ -27,7 +27,7 @@ jobs:
 
       - name: Download dependences
         working-directory: ..
-        run: git clone ${GITHUB_SERVER_URL}/easyScience/easySite
+        run: git clone -b patch-1 ${GITHUB_SERVER_URL}/arm61/easySite
 
       - name: Add assets
         working-directory: ..
