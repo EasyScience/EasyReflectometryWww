@@ -20,7 +20,7 @@ hero:
     - icon: icon-ubuntu
       os: Ubuntu
       url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/easyreflectometry_Linux_x86-64_v$RELEASE_VERSION.zip
-    - iconL fab fa-osi
+    - icon: fab fa-osi
       os: Source
       url: https://github.com/easyScience/easyReflectometryApp/blob/develop/INSTALLATION.md
   poster: assets/img/hero_light.png
