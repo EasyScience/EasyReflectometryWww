@@ -60,7 +60,7 @@ documentation:
     title: Library
     description: >-
       The [EasyReflectometry library documentation](https://docs.easyreflectometry.org)
-      covers everything related to using EasyDiffraction as a python library.
+      covers everything related to using EasyReflectometry as a python library.
 
 contact:
   - icon: fas fa-question-circle
