@@ -8,18 +8,18 @@ hero:
     simulation of reflectometry profiles based on layered structures and
     refinement against experimental data.
   release:
-    version: 0.0.5-beta
-    date: 2022-06-13
+    version: 0.0.6-beta
+    date: 2023-03-27
   downloads:
     - icon: fab fa-windows
       os: Windows
-      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/EasyReflectometry_Windows_x86-32_v$RELEASE_VERSION.zip
+      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/EasyReflectometry_Windows_x86-32_v$RELEASE_VERSION.exe
     - icon: fab fa-apple
       os: macOS
       url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/EasyReflectometry_macOS_x86-64_v$RELEASE_VERSION.zip
     - icon: icon-ubuntu
       os: Ubuntu
-      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/EasyReflectometry_Linux_x86-64_v$RELEASE_VERSION.zip
+      url: https://snapcraft.io/easyreflectometry
   source: https://github.com/easyScience/easyReflectometryApp/blob/develop/INSTALLATION.md
   poster: assets/img/hero_light.png
 
@@ -60,7 +60,7 @@ documentation:
     title: Library
     description: >-
       The [EasyReflectometry library documentation](https://docs.easyreflectometry.org)
-      covers everything related to using EasyDiffraction as a python library.
+      covers everything related to using EasyReflectometry as a python library.
 
 contact:
   - icon: fas fa-question-circle
