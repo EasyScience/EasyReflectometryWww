@@ -21,7 +21,7 @@ hero:
       os: Ubuntu
       url: https://snapcraft.io/easyreflectometry
   source: https://github.com/easyScience/easyReflectometryApp/blob/develop/INSTALLATION.md
-  poster: assets/img/hero_light.png
+  poster: assets/img/hero_lightmode.png
 
 features:
   - icon: icon-open-source
