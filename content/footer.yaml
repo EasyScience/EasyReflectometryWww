@@ -2,7 +2,7 @@ project:
   title: easyReflectometry
   icon: icon-easyreflectometry
   url: https://easyreflectometry.org
-  year: 2021
+  year: 2023
 links:
   - url: https://github.com/easyscience/easyreflectometryapp/releases
     text: Release Notes
