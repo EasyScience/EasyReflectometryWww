@@ -7,9 +7,6 @@ hero:
     [refl1d](https://refl1d.readthedocs.io/en/latest/). Allowing for the
     simulation of reflectometry profiles based on layered structures and
     refinement against experimental data.
-  release:
-    version: 0.0.11-beta
-    date: 2024-08-07
   downloads:
     - icon: fab fa-windows
       top: Download for
