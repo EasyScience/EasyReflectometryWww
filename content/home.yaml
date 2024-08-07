@@ -8,8 +8,8 @@ hero:
     simulation of reflectometry profiles based on layered structures and
     refinement against experimental data.
   release:
-    version: 0.0.9-beta
-    date: 2024-03-13
+    version: 0.0.11-beta
+    date: 2024-08-07
   downloads:
     - icon: fab fa-windows
       top: Download for
