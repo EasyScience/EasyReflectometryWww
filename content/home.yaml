@@ -7,22 +7,7 @@ hero:
     [refl1d](https://refl1d.readthedocs.io/en/latest/). Allowing for the
     simulation of reflectometry profiles based on layered structures and
     refinement against experimental data.
-  release:
-    version: 0.0.9-beta
-    date: 2024-03-13
-  downloads:
-    - icon: fab fa-windows
-      top: Download for
-      bottom: Windows
-      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/EasyReflectometry_Windows_x86-32_v$RELEASE_VERSION.exe
-    - icon: fab fa-apple
-      top: Download for
-      bottom: macOS
-      url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/EasyReflectometry_macOS_x86-64_v$RELEASE_VERSION.zip
-    - icon: icon-snapcraft
-      top: Get it from the
-      bottom: Snap Store
-      url: https://snapcraft.io/easyreflectometry
+
   source: https://github.com/easyScience/easyReflectometryApp/blob/develop/INSTALLATION.md
   poster: assets/img/hero_lightmode.png
 
@@ -64,6 +49,23 @@ documentation:
     description: >-
       The [EasyReflectometry library documentation](https://docs.easyreflectometry.org)
       covers everything related to using EasyReflectometry as a python library.
+
+download:
+  - icon: fab fa-windows
+    top: Download for
+    details: Windows 10＋
+    bottom: Windows
+    url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/EasyReflectometry_Windows_x86-32_v$RELEASE_VERSION.exe
+  - icon: fab fa-apple
+    top: Download for
+    bottom: macOS
+    details: macOS 12, Intel
+    url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/EasyReflectometry_macOS_x86-64_v$RELEASE_VERSION.zip
+  - icon: icon-snapcraft
+    top: Get it from the
+    bottom: Snap Store
+    details: Most Linux Distributions
+    url: https://snapcraft.io/easyreflectometry
 
 contact:
   - icon: fas fa-question-circle
