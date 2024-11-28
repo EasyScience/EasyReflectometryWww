@@ -7,8 +7,6 @@ hero:
     [refl1d](https://refl1d.readthedocs.io/en/latest/). Allowing for the
     simulation of reflectometry profiles based on layered structures and
     refinement against experimental data.
-
-  source: https://github.com/easyScience/easyReflectometryApp/blob/develop/INSTALLATION.md
   poster: assets/img/hero_lightmode.png
 
 features:
@@ -55,17 +53,32 @@ download:
     top: Download for
     details: Windows 10＋
     bottom: Windows
-    url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/EasyReflectometry_Windows_x86-32_v$RELEASE_VERSION.exe
+    url: https://github.com/EasyScience/EasyReflectometryApp/releases/download/v$RELEASE_VERSION/EasyReflectometryApp_v$RELEASE_VERSION_windows-2022.exe
   - icon: fab fa-apple
     top: Download for
     bottom: macOS
-    details: macOS 12, Intel
-    url: https://github.com/easyscience/easyreflectometryapp/releases/download/v$RELEASE_VERSION/EasyReflectometry_macOS_x86-64_v$RELEASE_VERSION.zip
-  - icon: icon-snapcraft
-    top: Get it from the
-    bottom: Snap Store
-    details: Most Linux Distributions
-    url: https://snapcraft.io/easyreflectometry
+    details: macOS 13, Intel
+    url: https://github.com/EasyScience/EasyReflectometryApp/releases/download/v$RELEASE_VERSION/EasyReflectometryApp_v$RELEASE_VERSION_macos-13-Intel.zip
+  - icon: fab fa-apple
+    top: Download for
+    bottom: macOS
+    details: macOS 14, Apple Silicon
+    url: https://github.com/EasyScience/EasyReflectometryApp/releases/download/v$RELEASE_VERSION_macos/EasyReflectometryApp_v$RELEASE_VERSION_macos_macos-14-AppleSilicon.zip
+  - icon: icon-ubuntu
+    top: Download for
+    bottom: Ubuntu
+    details: Ubuntu 22.04
+    url: https://github.com/EasyScience/EasyReflectometryApp/releases/download/v$RELEASE_VERSION/EasyReflectometryApp_v$RELEASE_VERSION_ubuntu-22.04
+  - icon: icon-ubuntu
+    top: Download for
+    bottom: Ubuntu
+    details: Ubuntu 24.04
+    url: https://github.com/EasyScience/EasyReflectometryApp/releases/download/v$RELEASE_VERSION/EasyReflectometryApp_v$RELEASE_VERSION_ubuntu-24.04
+  - icon: fab fa-github
+    top: Run it from
+    bottom: source
+    details: Multi-platform, Python
+    url: https://github.com/EasyScience/EasyReflectometryApp/blob/master/INSTALLATION.md
 
 contact:
   - icon: fas fa-question-circle
