@@ -63,7 +63,7 @@ download:
     top: Download for
     bottom: macOS
     details: macOS 14, Apple Silicon
-    url: https://github.com/EasyScience/EasyReflectometryApp/releases/download/v$RELEASE_VERSION_macos/EasyReflectometryApp_v$RELEASE_VERSION_macos_macos-14-AppleSilicon.zip
+    url: https://github.com/EasyScience/EasyReflectometryApp/releases/download/v$RELEASE_VERSION_macos/EasyReflectometryApp_v$RELEASE_VERSION_macos-14-AppleSilicon.zip
   - icon: icon-ubuntu
     top: Download for
     bottom: Ubuntu
