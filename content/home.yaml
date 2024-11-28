@@ -7,7 +7,6 @@ hero:
     [refl1d](https://refl1d.readthedocs.io/en/latest/). Allowing for the
     simulation of reflectometry profiles based on layered structures and
     refinement against experimental data.
-
   source: https://github.com/easyScience/easyReflectometryApp/blob/develop/INSTALLATION.md
   poster: assets/img/hero_lightmode.png
 
@@ -64,19 +63,18 @@ download:
   - icon: fab fa-apple
     top: Download for
     bottom: macOS
-    details: macOS 14, ARM
+    details: macOS 14, Apple Silicon
     url: https://github.com/EasyScience/EasyReflectometryApp/releases/download/v$RELEASE_VERSION_macos/EasyReflectometryApp_v$RELEASE_VERSION_macos_macos-14-AppleSilicon.zip
   - icon: icon-ubuntu
     top: Download for
     bottom: Ubuntu
-    details: Ubuntu 22.04＋
+    details: Ubuntu 22.04
     url: https://github.com/EasyScience/EasyReflectometryApp/releases/download/v$RELEASE_VERSION/EasyReflectometryApp_v$RELEASE_VERSION_ubuntu-22.04
   - icon: icon-ubuntu
     top: Download for
     bottom: Ubuntu
-    details: Ubuntu 24.04＋
+    details: Ubuntu 24.04
     url: https://github.com/EasyScience/EasyReflectometryApp/releases/download/v$RELEASE_VERSION/EasyReflectometryApp_v$RELEASE_VERSION_ubuntu-24.04
-
 
 contact:
   - icon: fas fa-question-circle
